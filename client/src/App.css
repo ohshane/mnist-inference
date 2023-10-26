@@ -1,0 +1,17 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.Canvas {
+  border: solid 1px black;
+  border-radius: 5px;
+}
+
+.info {
+  font-size: 0.1em;
+  color: 999;
+}
